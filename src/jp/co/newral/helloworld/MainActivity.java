@@ -13,7 +13,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         
         TextView v = (TextView) findViewById(R.id.textView1);
-        v.setText("こんにちわ世界２");
+        v.setText("こんにちわ世界２、再編集してみた");
     }
 
 
