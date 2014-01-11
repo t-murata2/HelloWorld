@@ -13,7 +13,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         
         TextView v = (TextView) findViewById(R.id.textView1);
-        v.setText("‚±‚ñ‚É‚¿‚Í¢ŠE");
+        v.setText("ã“ã‚“ã«ã¡ã‚ä¸–ç•Œï¼’");
     }
 
 
